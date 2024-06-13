@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+    
+}
+body{
+    background-color: #081b29;
+}
+nav{
+    height: 100px;
+    width: 100%;
+   background-color: aliceblue;
+   color: #081b29;
+   text-align: center;
+   font-size: 5rem;
+}
+.body{
+    color: aliceblue;
+    text-align: center;
+   font-size: 2rem;
+   margin-top: 100px;
+}

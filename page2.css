@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:darkslategray;
+}
+.site{
+    align-items: center;
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+.web{
+    color: blanchedalmond;
+    font-size: 1.5rem;
+    margin: 5%;
+}

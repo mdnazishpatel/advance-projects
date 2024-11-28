@@ -1,0 +1,36 @@
+body{
+    background-color: darkslategray;
+}
+.one{
+    font-size: 3rem;
+   text-align: center;
+    color: blanchedalmond;
+    margin: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.two{
+    font-size: 1.5rem;
+    margin: 3%;
+    color: blanchedalmond;
+  
+}
+
+
+
+@media screen and (max-width: 800px){
+    body{
+       width: fit-content;
+    }
+    .one{
+        text-align: center;
+      width: 80%;
+    }
+    .two{
+     
+        font-size: 2rem;
+        font-family: 'Times New Roman', Times, serif;
+        width: 80%;
+      
+       
+    }
+}
